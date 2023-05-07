@@ -1,0 +1,6 @@
+1. For the extraction task:
+The start delimiter is 'Once upon a time' and the end delimiter is 'the end'.
+However, the given text does not contain the specified start and end delimiters. Please provide a text with the correct delimiters for extraction.
+
+2. For correction task:
+Since the extraction task could not be completed, there is no text to correct. Please provide a text with the correct delimiters for extraction, and I will correct the grammar and punctuation in the extracted text.

@@ -1,0 +1,7 @@
+1. For the extraction task:- The text is given between the delimiter ```.- The start delimiter is 'Once upon a time' and the end delimiter is 'the end'.- Extract the content between the delimiters, both inclusive. - If multiple delimiters exist, select the first occurrence of start and last occurrence of end.
+
+There is no start delimiter 'Once upon a time' and end delimiter 'the end' in the given text.
+
+2. For correction task:- Use the text extracted above- Correct the grammar and punctuations- Do not reduce the length of the story- Do not skip any sentence- Do not add any new sentence- Do not change the plot of the story
+
+Since there is no extracted text, I cannot proceed with the correction task.

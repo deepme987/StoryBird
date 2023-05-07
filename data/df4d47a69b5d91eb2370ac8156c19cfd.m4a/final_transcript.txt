@@ -1,0 +1,7 @@
+The story is given in the delimiter ```.The story is: 
+```1. For the story time:
+Once upon a time, there was a little problem. The beginning of the story was "Once upon a time" and the end of the story was "the end."
+But, the story we have doesn't have those special words. Please give us a story with the right beginning and ending words.
+
+2. For the fixing task:
+Since we couldn't find the right story, there's no story to fix. Please give us a story with the right beginning and ending words, and I'll make it perfect for you to read.```Remember, keeping the same length is very important.

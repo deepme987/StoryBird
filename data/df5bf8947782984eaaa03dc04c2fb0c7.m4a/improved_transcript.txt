@@ -1,0 +1,6 @@
+1. For the extraction task:
+The start delimiter is 'Once upon a time' and the end delimiter is 'the end'.
+There are no occurrences of the start delimiter 'Once upon a time' in the given text. Therefore, no content can be extracted.
+
+2. For correction task:
+Since no content was extracted, there is no text to correct.

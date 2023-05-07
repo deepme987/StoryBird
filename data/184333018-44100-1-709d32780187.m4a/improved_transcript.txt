@@ -1,0 +1,11 @@
+1. For the extraction task:
+- The start delimiter is 'Once upon a time' and the end delimiter is 'the end'.
+- Extract the content between the delimiters, both inclusive.
+
+The text does not contain the start delimiter 'Once upon a time'. Therefore, I cannot extract the content between the delimiters as requested.
+
+2. For correction task:
+- Use the text extracted above
+- Correct the grammar and punctuations
+
+Since there is no extracted text, I cannot proceed with the correction task. Please provide a text with the specified start and end delimiters.

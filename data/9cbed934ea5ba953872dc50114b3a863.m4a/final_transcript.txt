@@ -1,0 +1,11 @@
+Once upon a time, there was a special task that needed to be done. The task was to extract a story from a text. The start delimiter was "Once upon a time," and the end delimiter was "the end." The goal was to find the content between these delimiters, both inclusive. If there were multiple delimiters, the first occurrence of the start and the last occurrence of the end had to be selected.
+
+But, oh no! There was no start delimiter "Once upon a time" and end delimiter "the end" in the given text. What could be done now?
+
+Well, there was another task that could be done. It was the correction task! The rules were to use the text extracted above, correct the grammar and punctuation, and not reduce the length of the story. Also, no sentences could be skipped, no new sentences could be added, and the plot of the story should not be changed.
+
+However, since there was no extracted text, the correction task could not be done either. It seemed like the story would have to wait for another day.
+
+And so, the search for the perfect story continued, with the hope that one day, the right story would be found and shared with children everywhere.
+
+The end.
